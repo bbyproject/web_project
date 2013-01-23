@@ -1,1 +1,2 @@
 ong is commiting 1
+ong mau commit ke master lewat local_ong gimana caranya?
